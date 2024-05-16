@@ -1,5 +1,5 @@
 # 3D Human Pose Estimation with Spatial and Temporal Transformers
-This repo is the official implementation for [CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation]  
+This repo is the official implementation for [CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation](https://arxiv.org/abs/2203.13387)  
 
 
 
